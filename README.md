@@ -1,8 +1,8 @@
 ## Epidemic-modeling-with-SIR
-####Description
+#### Description
 This repository contains a 2D agent-based SIR (Susceptible-Infected-Recovered) simulation with different containment measures. It models the spread of an epidemic in a small population, visualizes the dynamics, and calculates summary statistics.
 
-####Features
+#### Features
 
 Agent-based modeling in a 2D space.
 
@@ -18,7 +18,7 @@ Visualizes agent movement and SIR states.
 
 Saves simulation results in the same folder.
 
-Usage
+#### Usage
 
 1. Open MATLAB and navigate to the main/ folder.
 
